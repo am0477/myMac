@@ -58,9 +58,9 @@ If you chose to download nix-darwin, use it to download your homebrew packages, 
 This is a list of packages that improve my macbook experience, and will likely improve yours as well.
 
 1. [yabai](https://github.com/koekeishiya/yabai):
- A tiling window manager for macOS. Best used with skhd.
-2. [skhd](https://github.com/koekeishiya/skhd):
-A Simple hotkey daemon for macOS. Best used with yabai. 
+ A tiling window manager for macOS. Best used with skhd or hammerspoon.
+2. [hammerspoon](https://github.com/Hammerspoon/hammerspoon):
+A Staggeringly powerful macOS desktop automation with Lua 
 3. [SketchyBar](https://github.com/FelixKratz/SketchyBar):
 A highly customizable macOS status bar replacement.
 4. [JankyBorders](https://github.com/FelixKratz/JankyBorders):
