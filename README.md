@@ -91,7 +91,7 @@ A tool to print a OpenPGP key on paper for archive and recovery.
 A symlink farm manager.
 17. [yt-dlp](https://github.com/yt-dlp/yt-dlp):
 A feature-rich command-line audio/video downloader.
-18. [veracrypt](https://github.com/veracrypt/VeraCrypt):
-A disk encryption tool with strong security based on TrueCrypt.
+18. [picocrypt](https://github.com/Picocrypt/CLI):
+A very small, very simple, yet very secure encryption tool.
 19. [linearmouse](https://github.com/linearmouse/linearmouse):
 A mouse and trackpad utility for Mac.
